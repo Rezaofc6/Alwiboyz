@@ -48,7 +48,7 @@ global.socialm = "GitHub: BotMIZUKImdv2" //ur github or insta name
 global.location = "Indonesia, Makassar, Bone" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
+global.botname = "KIMHCIBOTZ" //ur bot name
 global.websitex = "https://youtube.com/channel/UC1xTBxIxBfL4uP5I7-VQwTw" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "KIMHCI\n\n\n\n\n\n\n🦄🦄🦄 "
