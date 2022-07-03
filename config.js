@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6282239202895'] //ur owner number
-global.ownername = "ALWI STORE"
-global.ytname = "YT: KIMHCIBOTZ" //ur yt chanel name
-global.socialm = "GitHub: BotMIZUKImdv2" //ur github or insta name
-global.location = "Indonesia, Makassar, Bone" //ur location
+global.owner = ['6289606790112'] //ur owner number
+global.ownername = "REZA GANTENG"
+global.ytname = "YT: EzaBot-MD" //ur yt chanel name
+global.socialm = "GitHub: Rezaofc" //ur github or insta name
+global.location = "Indonesia, jawa timur," //ur location
 
 //bot bombdy
-global.botname = "KIMHCIBOTZ" //ur bot name
-global.websitex = "https://youtube.com/channel/UC1xTBxIxBfL4uP5I7-VQwTw" //ur website
+global.botname = "EzaBot-MD" //ur bot name
+global.websitex = "https://youtube.com/channel/UCoUIE95oCiyo_Ps0l9rhcdw" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "KIMHCI\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "© BY ALWI"
+global.packname = "EzaBot\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "© By RezaOfc"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['6282239202895'] //ur owner tag
-global.ownernummenu = ['6282239202895'] //ur owner number in menu and all
-global.watermark = "KIMHCIBOTZ" //ur watermark
-global.botscript = "https://github.com/BotMIZUKImdv2/Alwiboyz"
-global.linkz1 = "https://chat.whatsapp.com/D8jEgAYOBGFBIAHRx9JAt9"
-global.linkz2 = "https://chat.whatsapp.com/D8jEgAYOBGFBIAHRx9JAt9"
+global.ownertag = ['6289606790112'] //ur owner tag
+global.ownernummenu = ['6289606790112'] //ur owner number in menu and all
+global.watermark = "EzaBot-MD" //ur watermark
+global.botscript = "https://github.com/Rezaofcbotmd"
+global.linkz1 = "https://chat.whatsapp.com/BCgUSCxQltq8SwcpJe1tDf"
+global.linkz2 = "https://chat.whatsapp.com/BCgUSCxQltq8SwcpJe1tDf"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
