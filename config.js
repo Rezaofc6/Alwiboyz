@@ -43,7 +43,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['6289606790112'] //ur owner number
 global.ownername = "Reza official"
-global.ytname = "nb.boruto.official@gmail.com" //ur yt chanel name
+global.ytname = "nb.boruto.official@gmail.com" //ur gmail name
 global.socialm = "GitHub: Rezaofc" //ur github or insta name
 global.location = "Indonesia, jawa timur," //ur location
 
@@ -51,10 +51,10 @@ global.location = "Indonesia, jawa timur," //ur location
 global.botname = "EzaBot-MD" //ur bot name
 global.websitex = "https://youtube.com/channel/UCoUIE95oCiyo_Ps0l9rhcdw" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "EzaBot\n\n\n\n\n\n\n🦄🦄🦄 "
+global.packname = "EzaBot\n\n\n\n\n\n\n🐦🐦🐦 "
 global.author = "© By RezaOfc"
 global.themeemoji = "🐶"
-global.reactmoji = "😘"
+global.reactmoji = "🐤"
 global.ownertag = ['6289606790112'] //ur owner tag
 global.ownernummenu = ['6289606790112'] //ur owner number in menu and all
 global.watermark = "EzaBot-MD" //ur watermark
